@@ -4,6 +4,7 @@ An end-to-end machine learning project that helps bank marketing teams decide **
  
 The project trains multiple classifiers, evaluates them through a **profit-based framework** (not just accuracy), and surfaces everything in an interactive **Streamlit dashboard** with SHAP-powered explainability and an AI chatbot assistant.
 
+Watch the demo below:
 [![Watch the demo](Images/InputPage.png)](https://youtu.be/qwfQaNthQoQ)
 ---
 
